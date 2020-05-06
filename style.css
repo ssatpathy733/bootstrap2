@@ -1,0 +1,66 @@
+.navbar {
+    background-color: #C2D2D7;
+}
+
+.nav-link {
+	color: #559C35;
+
+}
+
+.navbar-brand {
+	color: #559C35;
+}
+
+input.form-control {
+    background-color: #CDE7C1;
+    color: #E7F7E0;
+}
+
+}
+/* change the link color */
+.navbar .navbar-nav .nav-link {
+    color: rgba(76, 140, 48,.5);
+}
+/* change the color of active or hovered links */
+.navbar .nav-item.active .nav-link,
+.navbar .nav-item:focus .nav-link,
+.navbar .nav-item:hover .nav-link {
+    color: rgba(76, 140, 48, .5);
+}
+
+.jumbotron {
+	background-color: #559C35;
+}
+
+.btn {
+	background-color: #C2D2D7;
+	color: #559C35;
+	border-color: #C2D2D7;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #C2D2D7;
+    background-color: #4C8C30;
+    border-color: #4C8C30; 
+}
+
+.display-4 {
+	color: #C2D2D7;
+}
+
+.lead {
+	color: #C2D2D7;
+}
+
+.yes {
+	color: #C2D2D7;
+}
+
+.dropdown-menu {
+	background-color: #C2D2D7;
+}
+
+.dropdown-item {
+	background-color: #C2D2D7;
+	color: #559C35;
+}
